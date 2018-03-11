@@ -17,7 +17,5 @@ int main()
 	}
 
 	std::cout << n << " liczba ciagu Fibo = " << F2 << '\n';
-
 	return 0;
 }
-
